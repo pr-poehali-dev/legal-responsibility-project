@@ -923,11 +923,11 @@ function SlideCover() {
       <div className="cover-meta fade-up-4">
         <div className="cover-meta-item">
           <div className="cover-meta-label">Ученик</div>
-          <div className="cover-meta-value">Иванов Алексей, 9 «А»</div>
+          <div className="cover-meta-value">Заливский Макар, 9 «Б»</div>
         </div>
         <div className="cover-meta-item">
-          <div className="cover-meta-label">Руководитель</div>
-          <div className="cover-meta-value">Петрова Н.В.</div>
+          <div className="cover-meta-label">Школа</div>
+          <div className="cover-meta-value">Атлашевская СОШ им. Бичурина</div>
         </div>
         <div className="cover-meta-item">
           <div className="cover-meta-label">Предмет</div>
